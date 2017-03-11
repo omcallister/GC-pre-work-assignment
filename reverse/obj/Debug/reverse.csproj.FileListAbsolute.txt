@@ -1,0 +1,9 @@
+c:\users\antho\documents\visual studio 2015\Projects\reverse\reverse\bin\Debug\reverse.exe.config
+c:\users\antho\documents\visual studio 2015\Projects\reverse\reverse\bin\Debug\reverse.exe
+c:\users\antho\documents\visual studio 2015\Projects\reverse\reverse\bin\Debug\reverse.pdb
+c:\users\antho\documents\visual studio 2015\Projects\reverse\reverse\obj\Debug\reverse.csprojResolveAssemblyReference.cache
+c:\users\antho\documents\visual studio 2015\Projects\reverse\reverse\obj\Debug\reverse.exe
+c:\users\antho\documents\visual studio 2015\Projects\reverse\reverse\obj\Debug\reverse.pdb
+C:\Users\antho\Desktop\skillz\reverse\reverse\bin\Debug\reverse.exe.config
+C:\Users\antho\Desktop\skillz\reverse\reverse\obj\Debug\reverse.exe
+C:\Users\antho\Desktop\skillz\reverse\reverse\obj\Debug\reverse.pdb
